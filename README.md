@@ -1,5 +1,3 @@
-Yknow, I tried to come up with a cool catchy acronym or nickname for this project but everything either felt too edgy, too dry, or just plain stupid. 
-
 Hello viewer!
 If you're here to make your own tracker, do keep in mind that you need your own keys from an API of your choice (I used Pubnub).
 You can also use whatever map application you'd like, but I used good ol' 
